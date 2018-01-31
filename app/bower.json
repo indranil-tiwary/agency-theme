@@ -1,0 +1,23 @@
+{
+  "name": "agencytheme",
+  "authors": [
+    "José Anchieta dos Santos Júnior <santosjr87@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^4.1.1",
+    "jquery": "^2.2.3"
+  }
+}
